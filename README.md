@@ -54,7 +54,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Multi-Agent Systems
 | Name | Description |
 |------|-------------|
-| [AutoGen Studio](https://github.com/microsoft/autogen/tree/main/samples/apps/autogen-studio) | 61k+ |
+| [AutoGen Studio](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-studio) | 61k+ |
 | [CrewAI Studio](https://github.com/crewAIInc/crewAI) | 58k+ |
 | [AgentVerse](https://github.com/OpenBMB/AgentVerse) | 5k+ |
 | [Generative Agents](https://github.com/joonspk-research/generative_agents) | 22k+ |
@@ -95,7 +95,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [Puppeteer](https://github.com/puppeteer/puppeteer) | 96k+ |
 | [Selenium](https://github.com/SeleniumHQ/selenium) | 34k+ |
 | [LaVague](https://github.com/lavague-ai/LaVague) | 6k+ |
-| [WebArena](https://github.com/webarena-env/webarena) | Web agent benchmark |
+| [WebArena](https://github.com/web-arena-x/webarena) | Web agent benchmark |
 
 ## Autonomous Agents
 | Name | Description |
@@ -105,7 +105,6 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 36k+ |
 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | 18k+ |
 | [Voyager](https://github.com/MineDojo/Voyager) | 7k+ |
-| [Ghost](https://github.com/EmergenceAI/Ghost) | Autonomous coding agent |
 
 ## Agent Memory
 | Name | Description |
@@ -153,6 +152,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 - [Building Effective Agents (Anthropic)](https://www.anthropic.com/research/building-effective-agents)
 - [The Landscape of AI Agents (2024)](https://www.latent.space/p/2024-agents)
 - [Agents Architecture Patterns](https://www.anthropic.com/engineering/building-effective-agents)
+- [The AI Agent Workforce Has Arrived. Companies Are Hiring Software Instead of People. (Calder Brief, 2026)](https://calder-brief.pages.dev/ai-agents-enterprise-2026)
 
 ## Videos & Courses
 - [AI Agents Full Course (freeCodeCamp)](https://www.youtube.com/watch?v=abc123)
